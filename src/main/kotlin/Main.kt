@@ -7,5 +7,5 @@ fun main() {
     var feedbackText: String = "Cood Order"
     println(numberOrders)
     println(feedbackText)
-    var worker: Int = 1999
+    var worker: Int = 1997
     println(worker) }
